@@ -1,4 +1,4 @@
-# Collections with methods for finding keys by value
+# Find keys by value in the Map
 
 Lets you find keys by value in collections with a HashMap, TreeMap, or LinkedHashMap structure
 
